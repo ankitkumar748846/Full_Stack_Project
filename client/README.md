@@ -27,3 +27,9 @@ npm run dev
 ### Setup instruction for tailwind
 
 [Tailwind official instruction](https://tailwindcss.com/docs/installation)
+
+### Adding plugins and dependencies
+
+```
+    npm install @reduxjs/toolkit react-router-dom react-icons react-chartjs-2 chart.js daisyui axios react-hot-toast @tailwindcss/line-clamp
+```
