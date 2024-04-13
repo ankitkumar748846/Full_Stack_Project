@@ -1,13 +1,15 @@
-import './App.css'
+import "./App.css";
+import Footer from "./Components/Footer";
 
 function App() {
   return (
     <>
-       <Routes>
-        
-       </Routes>
+      {/* <Routes>
+
+       </Routes> */}
+      <Footer />
     </>
-  )
+  );
 }
 
-export default App
+export default App;
