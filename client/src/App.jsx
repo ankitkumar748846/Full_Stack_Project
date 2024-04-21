@@ -11,6 +11,7 @@ import CourseDescription from "./Pages/Course/CourseDescription.jsx";
 import RequireAuth from "./Components/Auth/RequireAuth.jsx";
 import CreateCourse from "./Pages/Course/CreateCourse.jsx";
 import Profile from "./Pages/User/Profile.jsx";
+import EditProfile from "./Pages/User/EditProfile.jsx";
 
 function App() {
   return (
